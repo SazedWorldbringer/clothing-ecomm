@@ -27,14 +27,14 @@ class Directory extends React.Component {
         id: 3
       },
       {
-        title: 'womens',
+        title: 'women',
         imageUrl: 'https://images.unsplash.com/photo-1581404917879-53e19259fdda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80',
         credit: 'Adam Winger',
         size: 'large',
         id: 4
       },
       {
-        title: 'mens',
+        title: 'men',
         imageUrl: 'https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80',
         credit: 'Matheus Ferrero',
         size: 'large',
