@@ -1,6 +1,6 @@
 import React from 'react';
 // A higher order component used here mainly to get access to the history prop
-import { withRouter } from 'react-router-dom';
+import { withRouter } from "react-router-dom";
 
 import './menu-item.styles.scss';
 
