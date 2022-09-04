@@ -12,33 +12,38 @@ class Directory extends React.Component {
         title: 'hats',
         imageUrl: 'https://images.unsplash.com/photo-1533827432537-70133748f5c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
         credit: 'Héctor J. Rivas',
-        id: 1
+        id: 1,
+        linkUrl: 'hats',
       },
       {
         title: 'jackets',
         imageUrl: 'https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
         credit: 'Amanda Vick',
-        id: 2
+        id: 2,
+        linkUrl: 'jackets',
       },
       {
         title: 'shoes',
         imageUrl: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
         credit: 'REVOLT',
-        id: 3
+        id: 3,
+        linkUrl: 'shoes',
       },
       {
         title: 'women',
         imageUrl: 'https://images.unsplash.com/photo-1581404917879-53e19259fdda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80',
         credit: 'Adam Winger',
         size: 'large',
-        id: 4
+        id: 4,
+        linkUrl: 'women',
       },
       {
         title: 'men',
         imageUrl: 'https://images.unsplash.com/photo-1490578474895-699cd4e2cf59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80',
         credit: 'Matheus Ferrero',
         size: 'large',
-        id: 5
+        id: 5,
+        linkUrl: 'men',
       },
       ]
     }
