@@ -7,13 +7,7 @@ const SHOP_DATA = [
       {
         id: 1,
         name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZHW3VTp/brown-brim.png',
-        price: 25,
-      },
-      {
-        id: 1,
-        name: 'Brown Brim',
-        imageUrl: 'https://i.ibb.co/ZHW3VTp/brown-brim.png',
+        imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
         price: 25,
       },
       {
@@ -135,7 +129,7 @@ const SHOP_DATA = [
       {
         id: 19,
         name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6v0/blue-jean-jacket.png',
+        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
         price: 90,
       },
       {
